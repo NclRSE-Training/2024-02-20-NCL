@@ -60,7 +60,7 @@ title: "2024-02-20-NCL Neural Networks"
 # in The Carpentries Incubator).
 #
 # For an Incubator workshop, uncomment the line below and add the URL of the lesson site.
-# incubator_lesson_site: "https://carpentries-incubator.github.io/machine-learning-neural-python/"
+incubator_lesson_site: "https://carpentries-incubator.github.io/machine-learning-neural-python/"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
 # incubator_pre_survey: "put the URL of your pre-workshop survey here"
